@@ -1,13 +1,52 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Anmol Koul</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<i>
+ <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> 
+ <strong>Hey there, I'm Anmol Koul </strong>
+ </i>
+<div>
+<img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" >   
+ </div>
+<br>
+ <i> I'm a student,currently pursuing Bachelor's Degree from Pune Institute of Computer Technology.
+ I have a keen interest in AI & Blockchain.
+ I'm open minded person and loves to make new connections with people.
+ I’m currently learning Artificial Intelligence.
+</i>
+
+
+### IDE and Tools I Use
+<div>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
+ <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+</div>
+
+    
+### Technologies that I have worked with
+<div>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+ </div>
+
+
+## GitHub Stats
+<p align="center">
+<div>
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=LoGiC721&show_icons=true&title_color=#3080ED&icon_color=#3080ED&text_color=black&bg_color=#FFFEFE">
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoGiC721&count_private=true&langs_count=4&title_color=#3080ED&icon_color=#3080ED&text_color=black&bg_color=#FFFEFE">
+</div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+ ### How to Reach me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anmol-koul-038b45198)
 
 <!--
 **logic27/logic27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
