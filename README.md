@@ -36,13 +36,7 @@
  </div>
 
 
-## GitHub Stats
-<p align="center">
-<div>
-<img height="220" src="https://github-readme-stats.vercel.app/api?username=LoGiC721&show_icons=true&title_color=#3080ED&icon_color=#3080ED&text_color=black&bg_color=#FFFEFE">
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoGiC721&count_private=true&langs_count=4&title_color=#3080ED&icon_color=#3080ED&text_color=black&bg_color=#FFFEFE">
-</div>
-</p>
+
 
 
  ### How to Reach me
