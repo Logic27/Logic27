@@ -8,10 +8,10 @@
 <img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" >   
  </div>
 <br>
- <i> I'm a student,currently pursuing Bachelor's Degree from Pune Institute of Computer Technology.
- I have a keen interest in AI & Blockchain.
- I'm open minded person and loves to make new connections with people.
- I’m currently learning Artificial Intelligence.
+ <i> I'm a Software Dev Currently Working at UBS, I pursued my bachelor's degree from Pune Institute of Computer Technology.
+I have a keen interest in AI, blockchain, and Finance.
+I'm an open-minded person and love to make new connections with people.
+I'm currently learning Artificial Intelligence.
 </i>
 
 
@@ -39,7 +39,7 @@
 
 
 
- ### How to Reach me
+ ### How to Reach Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anmol-koul-038b45198)
 
 <!--
